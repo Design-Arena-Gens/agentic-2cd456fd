@@ -1,0 +1,13 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="finder-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#58a6fb"/>
+      <stop offset="100%" stop-color="#3865e3"/>
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="104" height="104" rx="24" fill="url(#finder-bg)" stroke="#4f7de2" stroke-width="2"/>
+  <path d="M64 30 C74 30 84 34 92 40 L92 88 C82 96 73 98 64 98 C55 98 46 96 36 88 L36 40 C45 34 54 30 64 30 Z" fill="#f7f9fb" stroke="#d9dce6" stroke-width="2"/>
+  <path d="M44 52 C47 52 50 54 50 58 C50 61 47 64 44 64 C41 64 38 61 38 58 C38 54 41 52 44 52 Z" fill="#3b3d4f"/>
+  <path d="M84 52 C81 52 78 54 78 58 C78 61 81 64 84 64 C87 64 90 61 90 58 C90 54 87 52 84 52 Z" fill="#3b3d4f"/>
+  <path d="M44 78 C52 82 60 84 64 84 C68 84 75 82 84 78" stroke="#3b3d4f" stroke-width="4" stroke-linecap="round" fill="none"/>
+</svg>

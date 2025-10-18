@@ -1,0 +1,19 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gear-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d7dbdf"/>
+      <stop offset="100%" stop-color="#b5bcc3"/>
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="104" height="104" rx="24" fill="url(#gear-bg)" stroke="#a5acb5" stroke-width="2"/>
+  <circle cx="64" cy="64" r="30" fill="#53565e" stroke="#2c2f36" stroke-width="4"/>
+  <circle cx="64" cy="64" r="16" fill="#bfc4cc" stroke="#ebedf0" stroke-width="4"/>
+  <path d="M64 28 L64 18" stroke="#4a4d54" stroke-width="8" stroke-linecap="round"/>
+  <path d="M64 110 L64 100" stroke="#4a4d54" stroke-width="8" stroke-linecap="round"/>
+  <path d="M100 64 L110 64" stroke="#4a4d54" stroke-width="8" stroke-linecap="round"/>
+  <path d="M18 64 L28 64" stroke="#4a4d54" stroke-width="8" stroke-linecap="round"/>
+  <path d="M90 38 L96 32" stroke="#4a4d54" stroke-width="8" stroke-linecap="round"/>
+  <path d="M38 96 L32 102" stroke="#4a4d54" stroke-width="8" stroke-linecap="round"/>
+  <path d="M96 96 L90 102" stroke="#4a4d54" stroke-width="8" stroke-linecap="round"/>
+  <path d="M32 32 L38 38" stroke="#4a4d54" stroke-width="8" stroke-linecap="round"/>
+</svg>
